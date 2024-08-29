@@ -1,24 +1,25 @@
-### 🌟 *A Subtle Welcome by PRADEEP KUMAR MAURYA* 👋
 
-I'm a final year student at *Motilal Nehru National Institute of Technology, Allahabad, driven by a passion for transforming innovative ideas into reality through code. As a **Full Stack Developer*, I thrive on:
+### 🌟 **A Subtle Welcome by PRADEEP KUMAR MAURYA** 👋
 
-- 🧠 *Designing and implementing* robust algorithms for backend and frontend systems
-- 🔍 *Building responsive* and user-friendly interfaces
-- 🚀 *Developing scalable and secure* full-stack applications
+I'm a final year student at **Motilal Nehru National Institute of Technology, Allahabad**, driven by a passion for transforming innovative ideas into reality through code. As a **Full Stack Developer**, I thrive on:
+
+- 🧠 **Designing and implementing** robust algorithms for backend and frontend systems
+- 🔍 **Building responsive** and user-friendly interfaces
+- 🚀 **Developing scalable and secure** full-stack applications
 
 ---
 
-## 🛠 *Technical Skills*
+## 🛠️ **Technical Skills**
 
-### 💾 *Databases*
+### 💾 **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 *Programming Languages*
+### 💻 **Programming Languages**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🧰 *Technologies & Frameworks*
+### 🧰 **Technologies & Frameworks**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -26,9 +27,9 @@ I'm a final year student at *Motilal Nehru National Institute of Technology, All
 
 ---
 
-## 📫 *How to Reach Me*
+## 📫 **How to Reach Me**
 
-- *Email*: [pradeepmaurya5024@gmail.com](mailto:pradeepmaurya5024@gmail.com)
+- **Email**: [pradeepmaurya5024@gmail.com](mailto:pradeepmaurya5024@gmail.com)
 
 ---
 
